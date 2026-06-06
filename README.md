@@ -17,4 +17,6 @@ I added a second frame with the "waves" in the rainbow portion inverted.  See LI
 The main menu image is from https://www.deviantart.com/studiomarimo/art/Nyan-nyan-nyanyanyanyan-253160677.  See LICENSE file
 for attribution.
 
-To play, just pull this repo, change to the NyanCatGame folder, and run the NyanCatRevisited executable.
+To play, just pull this repo, change to the NyanCatGame folder, and run the NyanCatRevisited executable. https://youtu.be/ytVUGj9uZJk?si=7vNxZsEbNFhPihVV shows how to launch the game in Love2D, (which you can ignore) and basic gameplay.
+
+Clicking NyanCat will reverse its direction and teleport it vertically to a random location, adding one point to the score. If NyanCat escapes off of either edge the score is reduced by one point. There is no lose condition: the score will just drop to zero.  As an excersise, you can have the game exit to the main menu when the score drops below 0.
