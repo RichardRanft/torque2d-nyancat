@@ -5,6 +5,8 @@ I originally wrote this game in Torque 2D ( https://torque3d.org/torque2D ) in a
 
 This distribution runs on Windows.  It should work on other platforms if run with the requisite Torque 2D release package.
 
+Note that this project contains a lot of "default" assets that could be removed to save space.  Specifically, the ToyAssets module is probably entirely superfluous.  I just took a template project and went from there.
+
 # NyanCat.wav
 Obviously not mine. See LICENSE file for attribution.
 
