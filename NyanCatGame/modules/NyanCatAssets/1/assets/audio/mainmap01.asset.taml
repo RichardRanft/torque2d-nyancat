@@ -1,0 +1,4 @@
+<AudioAsset
+    AssetName="mainMap01"
+    AssetAutoUnload="0"
+    AudioFile="@assetFile=^NyanCatAssets/assets/audio/mainmap01.wav" />

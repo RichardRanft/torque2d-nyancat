@@ -1,0 +1,4 @@
+<ImageAsset
+    AssetName="nyanBackground"
+    AssetAutoUnload="0"
+    ImageFile="@assetFile=^NyanCatAssets/assets/images/nyanBackground.png" />

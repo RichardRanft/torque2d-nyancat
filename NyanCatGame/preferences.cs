@@ -1,0 +1,1 @@
+$pref::GameState::defaultSaveName = "save";

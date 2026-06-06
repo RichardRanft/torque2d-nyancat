@@ -1,0 +1,5 @@
+<AnimationAsset
+    AssetName="NyanCatAnimation01"
+    Image="@asset=NyanCatAssets:NyanCatAnim01"
+    AnimationFrames="0 1"
+    AnimationTime="0.5" />

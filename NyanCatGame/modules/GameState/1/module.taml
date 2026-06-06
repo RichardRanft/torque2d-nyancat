@@ -1,0 +1,10 @@
+<ModuleDefinition
+	ModuleId="GameState"
+	VersionId="1"
+	Dependencies=""
+    Group="gameBase"
+	Description="A module for managing game state."
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy">
+</ModuleDefinition>

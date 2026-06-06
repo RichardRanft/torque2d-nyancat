@@ -1,0 +1,10 @@
+<ModuleDefinition
+	ModuleId="NyanCatAssets"
+	VersionId="1"
+	Description="Assets to be used in NyanCatRevisited."
+	ToyCategoryIndex="0">
+		<DeclaredAssets
+			Path="assets"
+			Extension="asset.taml"
+			Recurse="true"/>
+</ModuleDefinition>

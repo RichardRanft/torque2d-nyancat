@@ -1,0 +1,4 @@
+<AudioAsset
+    AssetName="BlackJack_ChipClicks"
+    AssetAutoUnload="0"
+    AudioFile="@assetFile=^NyanCatAssets/assets/audio/BlackJack_ChipClicks.wav" />

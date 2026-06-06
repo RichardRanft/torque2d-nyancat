@@ -1,0 +1,8 @@
+<ImageAsset
+    AssetName="StarAnimRed01"
+    AssetAutoUnload="0"
+    ImageFile="@assetFile=^NyanCatAssets/assets/sprites/StarAnimRed01.png"
+    CellCountX="2"
+    CellCountY="2"
+    CellWidth="16"
+    CellHeight="16" />

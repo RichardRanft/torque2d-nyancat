@@ -1,0 +1,5 @@
+<AudioAsset
+    AssetName="NyanCat"
+    AssetAutoUnload="0"
+	Looping="1"
+    AudioFile="@assetFile=^NyanCatAssets/assets/audio/NyanCat.wav" />

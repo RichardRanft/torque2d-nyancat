@@ -1,0 +1,57 @@
+<ParticleAsset
+    AssetName="NightStars">
+    <ParticleAssetEmitter
+        EmitterName="StarCenter"
+		EmitterType="BOX"
+		OrientationType="RANDOM"
+        Animation="@asset=NyanCatAssets:StarAnimation01">
+        <ParticleAssetEmitter.Fields>
+			<Quantity>
+				<Key Time="0" Value="20.0"/>
+			</Quantity>
+            <QuantityVariation>
+				<Key Time="0" Value="0.1"/>
+            </QuantityVariation>			
+            <SizeX>
+				<Key Time="0" Value="0.25"/>
+            </SizeX>
+            <AlphaChannel>
+				<Key Time="0" Value="1.0"/>
+			</AlphaChannel>
+            <Lifetime>
+				<Key Time="0" Value="0.5"/>
+            </Lifetime>						
+        </ParticleAssetEmitter.Fields>
+    </ParticleAssetEmitter>
+    <ParticleAssetEmitter
+        EmitterName="TwinklingStars"
+		EmitterType="BOX"
+		OrientationType="RANDOM"
+        Animation="@asset=NyanCatAssets:StarAnimation01">
+        <ParticleAssetEmitter.Fields>
+            <Quantity>
+				<Key Time="0" Value="20.0"/>
+            </Quantity>
+            <QuantityVariation>
+				<Key Time="0" Value="0.1"/>
+            </QuantityVariation>			
+            <Lifetime>
+				<Key Time="0" Value="0.5"/>
+            </Lifetime>						
+            <Speed>
+				<Key Time="0" Value="0.0"/>
+            </Speed>			
+            <SizeX>
+				<Key Time="0" Value="0.25"/>
+            </SizeX>			
+            <SizeXLife>
+				<Key Time="0" Value="1.0"/>
+            </SizeXLife>			
+            <AlphaChannel>
+				<Key Time="0.0" Value="1.0"/>
+				<Key Time="0.9" Value="0.9"/>
+				<Key Time="1.0" Value="0.0"/>				
+			</AlphaChannel>
+        </ParticleAssetEmitter.Fields>
+    </ParticleAssetEmitter>	
+</ParticleAsset>

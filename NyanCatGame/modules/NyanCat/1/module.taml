@@ -1,0 +1,14 @@
+<ModuleDefinition
+	ModuleId="NyanCat"
+	VersionId="1"
+	Dependencies="AppCore=1,ToyAssets=1,NyanCatAssets=1,GameState=1"
+    Group="gameBase"
+	Description="The core NyanCat game module."
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy">
+		<DeclaredAssets
+			Path="assets"
+			Extension="asset.taml"
+			Recurse="true"/>
+</ModuleDefinition>

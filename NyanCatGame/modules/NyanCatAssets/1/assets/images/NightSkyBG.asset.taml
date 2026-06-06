@@ -1,0 +1,4 @@
+<ImageAsset
+    AssetName="NightSkyBG"
+    AssetAutoUnload="0"
+    ImageFile="@assetFile=^NyanCatAssets/assets/images/NightSkyBG.png" />
